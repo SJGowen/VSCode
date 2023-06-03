@@ -11,7 +11,8 @@ https://github.com/johnpapa/pluralsight-vscode-samples
     - Behind it is Chromium, Node JS, TypeScript Server and OmniSharp Roslyn
     - Written by Erich Gamma and Chris Dias (who also wrote the online editor Monaco)
 
-File > Auto Save = Toggles the Auto Save feature indicated by a - [x] 
+File > Auto Save = Toggles the Auto Save feature indicated by a 
+- [x] 
 
 
 <img style="float: right;" src="./images/CommandKeys.png">
@@ -27,15 +28,3 @@ To start VSCode from the shell use:
 Other shortcuts:
 
 - Ctrl + \<n> = Take the cursor to the \<n>th tab that you have open
-
-### Solar System Exploration, 1950s – 1960s
-
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
