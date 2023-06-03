@@ -11,9 +11,7 @@ https://github.com/johnpapa/pluralsight-vscode-samples
     - Behind it is Chromium, Node JS, TypeScript Server and OmniSharp Roslyn
     - Written by Erich Gamma and Chris Dias (who also wrote the online editor Monaco)
 
-File > Auto Save = Toggles the Auto Save feature indicated by a
-
-- [x] to its left
+File > Auto Save = Toggles the Auto Save feature indicated by a ```- [x]```
 
 
 <img style="float: right;" src="./images/CommandKeys.png">
